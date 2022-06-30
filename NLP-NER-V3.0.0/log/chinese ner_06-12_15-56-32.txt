@@ -1,0 +1,2 @@
+2022-06-12 15:56:32 - INFO: <class 'Config.config'>
+2022-06-12 15:56:34 - INFO: Loading Data
